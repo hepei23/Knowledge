@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7404066a70983079",
+        "id": "e062d631970f1c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "2f736a3070a034b2",
+            "id": "fa556b6d61e66d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-资料/行业资料积累.md",
+                "file": "20-领域/AI/基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行业资料积累"
+              "title": "基础知识"
             }
           }
         ]
@@ -184,24 +184,36 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b8f73e7b56732c83",
+  "active": "fa556b6d61e66d33",
   "lastOpenFiles": [
-    "20-领域/半实物仿真/半实物仿真资料.md",
+    "20-领域/AI/Images/RAG提问前流程.png",
+    "20-领域/AI/Images/ReAct执行流程图.png",
+    "20-领域/AI/Images/ReAct问答流程.png",
+    "20-领域/AI/Images/Plan-and-Execute执行流程.png",
+    "20-领域/AI/Images/RAG提问后流程.png",
+    "20-领域/AI/Images",
+    "20-领域/AI/新建文件夹",
+    "20-领域/AI/RAG提问后流程.png",
+    "20-领域/AI/RAG提问前流程.png",
+    "20-领域/AI/Plan-and-Execute执行流程.png",
+    "20-领域/AI/ReAct问答流程.png",
+    "ReAct问答流程.png",
+    "Pasted image 20260628212340.png",
+    "20-领域/AI/基础知识.md",
     "30-资料/行业资料积累.md",
+    "20-领域/AI",
     "未命名.base",
+    "20-领域/半实物仿真/半实物仿真资料.md",
+    "未命名 1.base",
+    "未命名.canvas",
     "2026-06-01.md",
     "关于Obsidian的一些想法.md",
     "00-日常/技术二部每日工作.md",
     "20-领域/半实物仿真",
-    "未命名.canvas",
     "attachments",
     "Templates",
     "40-归档",
     "30-资料",
-    "20-领域",
-    "10-项目",
-    "00-日常",
-    "Pasted image 20260531182726.png",
     "Markdown.md"
   ]
 }
